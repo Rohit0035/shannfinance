@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the circle path -->
+  <defs>
+    <path id="circlePath" d="M 200, 200
+                             m -150, 0
+                             a 150,150 0 1,1 300,0
+                             a 150,150 0 1,1 -300,0" />
+  </defs>
+
+  <!-- Draw the circle (optional, for visualization) -->
+  <circle cx="200" cy="200" r="150" fill="none" stroke="black" />
+
+  <!-- Text on the circle path -->
+  <text font-size="20" fill="black">
+    <textPath href="#circlePath" startOffset="0%">
+      <tspan font-size="30" font-weight="bold">SHAAN FINANCE</tspan> IS PROVIDE <tspan font-size="30" font-weight="bold">BEST SERVICES</tspan> FOR LOAN  <tspan font-size="30" font-weight="bold">SHAAN FINANCE</tspan>
+    </textPath>
+  </text>
+</svg>
