@@ -409,7 +409,7 @@
                 <div class="col-12 col-md-6 col-lg-4 mb-3">
                     <div class="profile-card">
                         <div class="profile-image-wrapper">
-                            <img src="assets/imgs/common/img-square-team.jpg" alt="Shaji Varghese"
+                            <img src="assets/imgs/common/img-square-venkatsan.jpg" alt="Shaji Varghese"
                                 class="profile-image">
                         </div>
                         <div class="profile-content">
