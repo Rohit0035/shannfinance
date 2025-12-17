@@ -5,7 +5,7 @@
 <main>
 
     <!-- Breadcrumb area start  -->
-    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/ser-vecleloan-bg.jpg">
+    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/com-sec.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-12">
@@ -42,7 +42,7 @@
                                 <img class="img-fluid" src="assets/imgs/icons/ssd-card.svg" alt="image not found">
                             </div>
                             <p>Shaan Finance Ltd offers flexible Commercial Vehicle Loans designed to help individuals,
-                                fleet owners, and businesses purchase new or used commercial vehicles. Whether it’s a
+                                fleet owners, and businesses purchase new vehicles. Whether it’s a
                                 truck, bus, taxi, or small commercial vehicle – we make it easier for you to expand your
                                 business with quick disbursal and hassle-free repayment options.</p>
                         </div>
@@ -58,7 +58,7 @@
                                 <li>Valid driving license or commercial license is mandatory.</li>
                                 <li>Individuals, proprietors, partnership firms, and companies engaged in transport
                                     business are eligible.</li>
-                                <li>Should have a stable source of income to repay the loan.</li>
+                                <li>Business should be operational for at least 2 years.</li>
                             </ul>
                         </div>
 
@@ -66,6 +66,7 @@
                             <h4 class="mb-3">Basic Documents Required</h4>
                             <ul>
                                 <li>PAN Card of applicant / business entity</li>
+                                <li> IT returns / financial statements</li>
                                 <li>Aadhar Card / Passport / Driving License / Voter ID</li>
                                 <li>Latest 6 months’ Bank Statement</li>
                                 <li>Income proof / ITR (if applicable)</li>
@@ -98,7 +99,7 @@
                                     <div class="shadow p-4 mt-3 gird-st">
                                         <img src="assets/imgs/home1/rupee.png" alt="" class="mb-3" style="width:60px;">
                                         <h4 class="mb-0">High Loan Amount</h4>
-                                        <p>Get funding up to 90% of the vehicle cost for both new and used commercial
+                                        <p>Get funding up to 90% of the vehicle cost for new
                                             vehicles.</p>
                                     </div>
                                 </div>
@@ -107,7 +108,7 @@
                                         <img src="assets/imgs/home1/sal-key-4.png" alt="" class="mb-3"
                                             style="width:60px;">
                                         <h4 class="mb-0">Flexible Tenure</h4>
-                                        <p>Choose a repayment tenure ranging from 12 months to 60 months, based on your
+                                        <p>Choose a repayment tenure ranging from 12 months to 36 months, based on your
                                             business needs.</p>
                                     </div>
                                 </div>
@@ -131,9 +132,10 @@
                                 <div class="sidebar__widget-contact-item d-flex">
                                     <div class="sidebar__widget-contact-icon"><i class="fa-regular fa-clock"></i></div>
                                     <div class="sidebar__widget-contact-item-text">
-                                        <h5>Monday - Friday</h5>
+                                        <h5>Business Hours</h5>
+
                                         <ul>
-                                            <li><a>Monday to Friday: 9:30 am – 5:30 pm</a></li>
+                                            <li><a>Monday to Saturday: 10:00 am to 6:00 pm</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -143,6 +145,7 @@
                                     </div>
                                     <div class="sidebar__widget-contact-item-text">
                                         <h5>Location</h5>
+
                                         <ul>
                                             <li><a href="https://maps.app.goo.gl/R8Y6ZY6s1KrcGWc67">SB One, 260/33, 9th
                                                     A Main Road, 3rd Block, Jayanagar, Bangalore 560011</a></li>
@@ -154,9 +157,10 @@
                                     <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-phone"></i></div>
                                     <div class="sidebar__widget-contact-item-text">
                                         <h5>Call us</h5>
+
                                         <ul>
-                                            <li>Mobile: <a href="tel:08029902980">080-2990 2980</a></li>
-                                            <li>Email: <a href="info@shaanfinance.in">info@shaanfinance.in</a></li>
+                                            <li>Phone: <a href="tel: 08029902980"> 080- 2990 2980</a></li>
+                                            <li>Email: <a href="info@shaanfinance.in"> info@shaanfinance.in</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -168,6 +172,16 @@
         </div>
     </section>
     <!-- service details area end -->
+
+
+    <!-- process section start -->
+
+
+    <?php include 'process.php';?>
+
+
+    <!-- process section close -->
+
 
     <section class="emi-sec" data-background="assets/imgs/home1/emi-bg-img.jpg">
         <div class="container">

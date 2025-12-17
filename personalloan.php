@@ -118,10 +118,10 @@
                                  <div class="sidebar__widget-contact-item d-flex">
                                      <div class="sidebar__widget-contact-icon"><i class="fa-regular fa-clock"></i></div>
                                      <div class="sidebar__widget-contact-item-text">
-                                         <h5>Monday - Friday</h5>
+                                         <h5>Business Hours</h5>
                                          
                                          <ul>
-                                             <li><a>Monday to Friday: 9:30 am – 5:30 pm</a></li>
+                                             <li><a>Monday to Saturday: 10:00 am to 6:00 pm</a></li>
                                          </ul>
                                      </div>
                                  </div>
@@ -143,7 +143,7 @@
                                          <h5>Call us</h5>
 
                                          <ul>
-                                             <li>Mobile: <a href="tel: 08029902980">  080- 2990 2980</a></li>
+                                             <li>Phone: <a href="tel: 08029902980">  080- 2990 2980</a></li>
                                              <li>Email:  <a href="info@shaanfinance.in"> info@shaanfinance.in</a></li>
                                          </ul>
                                      </div>
@@ -156,6 +156,17 @@
         </div>
     </section>
     <!-- service details area end -->
+
+
+
+    <!-- process section start -->
+
+   
+   <?php include 'process.php';?>
+
+
+    <!-- process section close -->
+
 
 
     <section class="emi-sec" data-background="assets/imgs/home1/emi-bg-img.jpg">

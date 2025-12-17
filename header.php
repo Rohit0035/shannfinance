@@ -21,6 +21,9 @@
 
     <link rel="stylesheet" href="assets/css/custom.css">
 
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <!-- track css -->
 
 </head>
@@ -130,7 +133,7 @@
     <!-- Header area start -->
     <header>
         <div id="header-sticky" class="header__area header-1 header-2">
-            <div class="header-top d-none d-md-block" data-bg-color="#004cac">
+            <div class="header-top d-none d-md-block" data-bg-color="#f46a25">
                 <div class="container">
                     <div class="top-header__menu-wrapper d-flex justify-content-between align-items-center">
                         <ul class="header-top-menu d-flex">
@@ -183,11 +186,16 @@
                                                 <ul class="submenu">
                                                     <li><a href="personalloan.php">Personal Loan for Salaried</a></li>
                                                     <li><a href="againstsalary.php">Advance Against Salary Loan</a></li>
-                                                    <li><a href="feefinancing.php">Student Fee Financing Scheme </a></li>
-                                                    <li><a href="securedandunsecured.php"> Secured & unsecured business loan</a></li>
-                                                    <li><a href="commercialvehicleloan.php"> Commercial vehicle loan</a></li>
-                                                    <li><a href="billsdiscounting.php"> Bills discounting scheme</a></li>
-                                                    <li><a href="shaanmedpro.php">Shaan Medpro loan </a></li>
+                                                    <li><a href="feefinancing.php">Student Fee Financing Scheme </a>
+                                                    </li>
+                                                    <li><a href="securedandunsecured.php"> Secured & unsecured business
+                                                            loan</a></li>
+                                                    <li><a href="commercialvehicleloan.php"> Commercial vehicle loan</a>
+                                                    </li>
+                                                    <li><a href="billsdiscounting.php"> Bills discounting scheme</a>
+                                                    </li>
+                                                    <li><a href="loantoprofessionals.php">Loan to Professionals </a>
+                                                    </li>
                                                 </ul>
                                             </li>
                                             <li class="">

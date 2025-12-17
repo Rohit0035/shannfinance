@@ -5,7 +5,7 @@
 <main>
 
     <!-- Breadcrumb area start  -->
-    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/ser-bills-bg.jpg">
+    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/sec-bill.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-12">
@@ -65,6 +65,9 @@
                             <h4 class="mb-3">Basic Documents Required</h4>
                             <ul>
                                 <li>PAN Card of business / proprietor / company</li>
+                               
+                                <li> IT returns / financial statements</li>
+
                                 <li>Aadhar Card / Passport / Driving License / Voter ID</li>
                                 <li>Latest 6 months’ Bank Statement</li>
                                 <li>GST Registration Certificate</li>
@@ -117,37 +120,40 @@
                         <div class="sidebar__widget sidebar__widget-contact-wrapper" data-background="assets/imgs/sidebar/background-shpae.svg">
                             <h2 class="sidebar__widget-title space-second">Contact us for Bills Discounting</h2>
 
-                            <div class="sidebar__widget-contact">
-                                <div class="sidebar__widget-contact-item d-flex">
-                                    <div class="sidebar__widget-contact-icon"><i class="fa-regular fa-clock"></i></div>
-                                    <div class="sidebar__widget-contact-item-text">
-                                        <h5>Business Hours</h5>
-                                        <ul>
-                                            <li><a>Monday to Friday: 9:30 am – 5:30 pm</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                           <div class="sidebar__widget-contact">
+                                 <div class="sidebar__widget-contact-item d-flex">
+                                     <div class="sidebar__widget-contact-icon"><i class="fa-regular fa-clock"></i></div>
+                                     <div class="sidebar__widget-contact-item-text">
+                                         <h5>Business Hours</h5>
+                                         
+                                         <ul>
+                                             <li><a>Monday to Saturday: 10:00 am to 6:00 pm</a></li>
+                                         </ul>
+                                     </div>
+                                 </div>
 
-                                <div class="sidebar__widget-contact-item d-flex">
-                                    <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-location-dot"></i></div>
-                                    <div class="sidebar__widget-contact-item-text">
-                                        <h5>Location</h5>
-                                        <ul>
-                                            <li><a href="https://maps.app.goo.gl/R8Y6ZY6s1KrcGWc67">SB One, 260/33, 9th A Main Road, 3rd Block, Jayanagar, Bangalore 560011</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                 <div class="sidebar__widget-contact-item d-flex">
+                                     <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-location-dot"></i></div>
+                                     <div class="sidebar__widget-contact-item-text">
+                                         <h5>Location</h5>
 
-                                <div class="sidebar__widget-contact-item d-flex">
-                                    <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-phone"></i></div>
-                                    <div class="sidebar__widget-contact-item-text">
-                                        <h5>Call us</h5>
-                                        <ul>
-                                            <li>Mobile: <a href="tel:08029902980">080-2990 2980</a></li>
-                                            <li>Email: <a href="info@shaanfinance.in">info@shaanfinance.in</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                         <ul>
+                                             <li><a href="https://maps.app.goo.gl/R8Y6ZY6s1KrcGWc67">SB One, 260/33, 9th A Main Road, 3rd Block, Jayanagar, Bangalore 560011</a></li>
+                                         </ul>
+                                     </div>
+                                 </div>
+
+                                 <div class="sidebar__widget-contact-item d-flex">
+                                     <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-phone"></i></div>
+                                     <div class="sidebar__widget-contact-item-text">
+                                         <h5>Call us</h5>
+
+                                         <ul>
+                                             <li>Phone: <a href="tel: 08029902980">  080- 2990 2980</a></li>
+                                             <li>Email:  <a href="info@shaanfinance.in"> info@shaanfinance.in</a></li>
+                                         </ul>
+                                     </div>
+                                 </div>
                             </div>
                         </div>
                     </div>
@@ -156,6 +162,16 @@
         </div>
     </section>
     <!-- service details area end -->
+
+
+    <!-- process section start -->
+
+   
+   <?php include 'process.php';?>
+
+
+    <!-- process section close -->
+
 
     <section class="emi-sec" data-background="assets/imgs/home1/emi-bg-img.jpg">
         <div class="container">

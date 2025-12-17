@@ -425,10 +425,15 @@
             autoplay: {
             delay: 5000,
         },
+        // pagination: {
+        //     el: ".banner-4-pagination",
+        //     clickable: true
+        // },
         pagination: {
-            el: ".banner-4-pagination",
-            clickable: true
-        },
+        el: ".banner-4-pagination",
+        clickable: true,
+        type: "bullets",   
+    },
     });
 
     /*banner-5-active***/

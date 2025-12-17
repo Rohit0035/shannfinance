@@ -1,7 +1,7 @@
 <!-- Footer area start -->
 <!-- whatsapp subscribe section -->
 <!-- Cta area start -->
-<section class="cta__area footer-up-cta mb-60 pb-5">
+<section class="cta__area footer-up-cta mb-60 mt-60 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -34,7 +34,7 @@
                         </div>
                     </div>
                 </div> -->
-                <div class="cta__wrapper primary-border-top d-flex flex-column flex-xl-row justify-content-between align-items-center cta__section-space" data-bg-color="#004aad">
+                <div class="cta__wrapper primary-border-top d-flex flex-column flex-xl-row justify-content-between align-items-center cta__section-space" data-bg-color="#f46a25">
                     <div class="cta__content">
                         <h3 class="color-white mb-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay=".3s">
                             <span class="mt-2"><i class="fa-brands fa-whatsapp" style="font-size:45px; margin-right:15px;"></i></span>
@@ -42,7 +42,7 @@
                         </h3>
                     </div>
                     <div class="cta__subscribe d-flex wow fadeInRight animated" data-wow-delay=".3s">
-                        <a href="https://api.whatsapp.com/send/?phone=918904022506&text&type=phone_number&app_absent=0" class="rs-btn btn-hover-white" style="border: 1px solid#fff;">Continue On WhatsApp <span>
+                        <a href="https://api.whatsapp.com/send/?phone=918904022506&text&type=phone_number&app_absent=0" class="rs-btn btn-hover-white">Continue On WhatsApp <span>
                                 <svg width="11" height="8" viewBox="0 0 11 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M10.3536 4.40043C10.5488 4.20517 10.5488 3.88858 10.3536 3.69332L7.17157 0.511342C6.97631 0.31608 6.65973 0.31608 6.46447 0.511342C6.2692 0.706604 6.2692 1.02319 6.46447 1.21845L9.29289 4.04688L6.46447 6.8753C6.2692 7.07056 6.2692 7.38715 6.46447 7.58241C6.65973 7.77767 6.97631 7.77767 7.17157 7.58241L10.3536 4.40043ZM-4.35033e-08 4.54688L10 4.54688L10 3.54688L4.35033e-08 3.54688L-4.35033e-08 4.54688Z" fill="white"></path>
                                 </svg>
@@ -86,13 +86,15 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="personalloan.php">Personal Loan for Salaried</a></li>
+                                <li><a href="ourproducts.php">Loan Products</a></li>
+                                <!-- <li><a href="personalloan.php">Personal Loan for Salaried</a></li>
                                 <li><a href="againstsalary.php">Advance Against Salary Loan</a></li>
-                                <li><a href="feefinancing.php">Student Fee Financing Scheme </a></li>
+                                <li><a href="feefinancing.php">Student Fee Financing Scheme </a></li> -->
                                 <li><a href="servicecharges.php">Service Charges & ROI </a></li>
                                 <li><a href="assets/pdf/finalfaircode.pdf">Fair Practice Code </a></li>
-                                <li><a href="assets/pdf/kyc.pdf">KYC Policy</a></li>
-                                <li><a href="assets/pdf/grievance.pdf">Customer grievance Policy</a></li>
+                                <li><a href="assets/pdf/CustomerGrievancePolicy.pdf">Customer grievance Policy</a></li>
+                                <li><a href="assets/pdf/kycpolicy.pdf">KYC Policy</a></li>
+                                 <li><a href="financials.php">Financials </a></li>
                                 <li><a href="https://apply.shaanfinance.in/journey/start/shaan-finance">Apply Now </a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
@@ -176,7 +178,7 @@
      </div>
     <div class="slide-in-div">
         <img src="assets/imgs/home1/ShannQrcode.png" class="mt-4" style="width:100px;"/>
-        <h6 class="mt-1">Apply to Scan</h6>
+        <h6 class="mt-1">Scan to Apply</h6>
     </div>
 </div>
 

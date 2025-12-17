@@ -35,7 +35,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000; 
+  background: #004aac; 
   transition: bottom 0.4s ease-in-out;
   z-index: 0;
 }
@@ -54,7 +54,7 @@
   position: absolute;
   top: -20px;
   left: -20px;
-  background: #004aac; 
+  background: #f46a25; 
   width: 90px;
   height: 90px;
   border-radius: 50%;
@@ -109,8 +109,123 @@
   position: relative;
 }
 /* featur card css close */
+.faq__area {
+ background-image: url(../imgs/common/bg-faq.jpg);
+ background-size: cover;
+ background-position: center;
+}
+
+.accordion {
+  --bs-accordion-bg:#0000001a !important;
+  --bs-accordion-color: #ffffff !important;
+}
+.accordion-button{
+  color: #fff !important;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #f46a25 !important;
+}
+
+.bg-oragne{
+  background-color: var( --rs-common-org) !important;
+}
+.bg-oragne:hover{
+  background-color: var(--rs-common-blue) !important;
+}
 
 
+
+
+/* Container card */
+.profile-card {
+    position: relative;
+    /* width: 300px; */
+    margin: 80px auto 30px;
+    background-color: #f0f8ff;
+    border-radius: 20px;
+    padding: 80px 20px 60px; /* Space for top image and bottom button */
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Top circular image wrapper */
+.profile-image-wrapper {
+    position: absolute;
+    top: -70px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #004aac;
+    background: white;
+    overflow: hidden;
+    z-index: 2;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Image inside the circle */
+.profile-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.profile-card:hover .profile-image {
+    transform: scale(1.07);
+}
+
+/* Name */
+.profile-name {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #000;
+}
+
+/* Title */
+.profile-title {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* View Profile button */
+.view-profile-btn {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #004aac;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.3s ease;
+}
+
+.view-profile-btn:hover {
+    background-color: #0d8ae2;
+}
+
+
+img.vm-img {
+    object-fit: cover;
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.accstacc{
+    height: 50px !important;
+    background: #013e7f !important;
+    font-size: 14px !important;
+}
 
 /* for mobile css */
 @media only screen and (max-width: 600px) {
@@ -120,4 +235,5 @@
         font-size: 38px;
     }
   }
+  
 }

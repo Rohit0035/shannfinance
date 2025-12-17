@@ -3,7 +3,7 @@
 <!-- Body main wrapper start -->
 <main>
     <!-- Breadcrumb area start  -->
-    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/portfolio/page-header-1.jpg">
+    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/sec-contact.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-12">
@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-xl-8">
                     <div class="contact-us__content mb-30 mb-xs-25">
-                        <h3 class="section__title mb-25 mb-xs-20 wow fadeInLeft animated" data-wow-delay=".3s">SEND US A MESSAGE</h3>
+                        <h3 class="section__title mb-25 mb-xs-20 wow fadeInLeft animated" data-wow-delay=".3s"> REQUEST CALLBACK</h3>
                         <!-- <div class="descriptions wow fadeInLeft animated" data-wow-delay=".5s">
                             <p>Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis  viverra laoreet augue mattis fermentum ullamcorper viverra laoreet Aliquam eros</p>
                         </div> -->
@@ -101,6 +101,13 @@
                                     </span>
                                     <br/> 
                                 </a>
+                                <a href="mailto:customergrievances@shaanfinance.in">
+                                    <i class="fa-regular fa-envelope"></i>
+                                    <span class="text">
+                                      customergrievances@shaanfinance.in
+                                    </span>
+                                    <br/> 
+                                </a>
                             </li>
 
                             
@@ -109,6 +116,10 @@
                                 <a href="tel:08029902980">
                                     <i class="fa-solid fa-phone"></i>
                                     <span class="text">   080- 2990 2980</span>
+                                </a>
+                                 <a href="https://api.whatsapp.com/send/?phone=918904022506&text&type=phone_number&app_absent=0">
+                                    <i class="fa-brands fa-whatsapp text-success"></i>
+                                    <span class="text">   +91 89040 22506</span>
                                 </a>
                             </li>
                             <li class="shadow p-4 mb-3">
@@ -122,7 +133,7 @@
                               <h4 class="mb-2">Business Hours</h4>
                                 <a href="tel:+918904022506">
                                     <i class="fa-solid fa-clock"></i>
-                                    <span class="text">Monday to Friday: 9:30 am – 5:30 pm</span>
+                                    <span class="text">Monday to Saturday: 10:00 am to 6:00 pm</span>
                                 </a>
                             </li>
                             

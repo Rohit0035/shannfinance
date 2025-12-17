@@ -66,7 +66,7 @@ button.accordion-button.fs-2 {
                     </div>
                   </div> -->
                                     </div>
-                                    <img src="assets/imgs/common/sl--2.png" class="img-fluid" alt="">
+                                    <img src="assets/imgs/common/pl-loan-hero.png" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>
@@ -119,93 +119,246 @@ button.accordion-button.fs-2 {
                 </div>
             </div>
 
+            <!-- Slide 3 -->
+            <div class="swiper-slide" data-swiper-slide-index="1">
+                <div class="banner-4-active__item position-relative" style="background-color:#f0f4f97a;">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="banner-4-active__item-content">
+                                    <div class="subtitle mb-2">Shaan Finance</div>
+                                    <h1 class="mt-10 wow fadeIn" data-wow-delay="2s">Student Fee Financing Scheme</h1>
+                                    <div class="description mt-20 mt-sm-20 wow fadeIn" data-wow-delay="3s">
+                                        <p>Empowering students to achieve their dreams with flexible fee financing
+                                            options. Shaan Finance provides easy and affordable Fee Financing scheme,
+                                            covering tuition and related academic expenses with quick approval and
+                                            minimal documentation.
+                                        </p>
+                                    </div>
+                                    <div
+                                        class="banner-4-active__item-content-button-wrapper d-flex align-items-center mt-20 mt-sm-30">
+                                        <a href="https://apply.shaanfinance.in/journey/start/shaan-finance"
+                                            class="d-none d-sm-block rs-btn text-white wow fadeIn"
+                                            data-wow-delay=".4s">Apply Now</a>
+                                        <div class="banner-4-active__item-content-contact d-flex align-items-center wow fadeIn"
+                                            data-wow-delay="5s">
+                                            <div class="icon-wrapper">
+                                                <i class="fa-solid fa-phone"></i>
+                                            </div>
+                                            <div class="banner-4-active__item-content-contact-text">
+                                                <span class="mb-10 mb-xs-5">Requesting A Call:</span>
+                                                <a href="tel:08029902980">
+                                                    <h5>080- 2990 2980</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="banner-4-active__item-media position-relative">
+                                    <img src="assets/imgs/common/lon-ed-hero.png" class="img-fluid"
+                                        alt="Student Fee Financing">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Slide 4 -->
+            <div class="swiper-slide" data-swiper-slide-index="1">
+                <div class="banner-4-active__item position-relative" style="background-color:#f0f4f97a;">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="banner-4-active__item-content">
+                                    <div class="subtitle mb-2">Shaan Finance</div>
+                                    <h1 class="mt-10 wow fadeIn" data-wow-delay="2s"> Commercial Vehicle Loan</h1>
+                                    <div class="description mt-20 mt-sm-20 wow fadeIn" data-wow-delay="3s">
+                                        <p>Own your dream vehicle with our flexible and affordable vehicle loan options.
+                                            Shaan Finance offers quick approvals, minimal documentation, and attractive
+                                            interest rates for new vehicles — making your journey smoother
+                                            and hassle-free.</p>
+                                    </div>
+                                    <div
+                                        class="banner-4-active__item-content-button-wrapper d-flex align-items-center mt-20 mt-sm-30">
+                                        <a href="https://apply.shaanfinance.in/journey/start/shaan-finance"
+                                            class="d-none d-sm-block rs-btn text-white wow fadeIn"
+                                            data-wow-delay=".4s">Apply Now</a>
+                                        <div class="banner-4-active__item-content-contact d-flex align-items-center wow fadeIn"
+                                            data-wow-delay="5s">
+                                            <div class="icon-wrapper">
+                                                <i class="fa-solid fa-phone"></i>
+                                            </div>
+                                            <div class="banner-4-active__item-content-contact-text">
+                                                <span class="mb-10 mb-xs-5">Requesting A Call:</span>
+                                                <a href="tel:08029902980">
+                                                    <h5>080- 2990 2980</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6 col-md-6">
+                                <div class="banner-4-active__item-media position-relative">
+                                    <img src="assets/imgs/common/lon-com-hero.png" class="img-fluid" alt="Vehicle Loan">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
             <!-- You can add Slide 3, 4, 5 here (Commercial Vehicle, Bills Discounting, MedPro Loan) -->
 
         </div>
 
         <!-- Pagination -->
-        <!-- <div class="container banner-4-pagination mt-80 mt-lg-50 mt-md-40 mt-sm-35 mt-xs-30 position-absolute"></div> -->
+        <div class="container banner-4-pagination mt-80 mt-lg-50 mt-md-40 mt-sm-35 mt-xs-30 position-absolute"></div>
     </section>
 
     <!-- banner slider clse -->
 
 
 
+    
+    <!-- About Us area start -->
+    <section class="about-us-2 py-5 overflow-hidden" data-bg-color="#fff">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-xl-6">
+                    <div class="about-us-2__media d-flex flex-row  wow fadeIn animated" data-wow-delay=".1s">
+                      <img src="assets/imgs/common/abt-g-st.jpg" alt="image not found" class="img-fluid">
+                    </div>
+                </div>
+
+                <div class="col-xl-6">
+                    <div class="about-us-2__content">
+                        <span
+                            class="section__subtitle section__subtitle-2 uppercase justify-content-start mb-20 wow fadeIn animated"
+                            data-wow-delay=".1s">About Us <img class="rightLeft"
+                                src="assets/imgs/icons/arrow-right-circle.svg" alt="arrow not found"></span>
+                        <h2 class="section__title mb-20 mb-xs-10 wow fadeIn animated" data-wow-delay=".5s">About shaan
+                            Finance</h2>
+
+                        <p class=" wow fadeIn animated" data-wow-delay=".6s">At Shaan Finance, we are dedicated to
+                            Founded on principles of trust, integrity, and excellence, Shaan Finance offers a comprehensive range of services including personal loans, business loans and other retail Loans.</p>
+
+                        <div class="about-us-2__content-button-wrapper d-flex align-items-center mt-50 mt-sm-30 mt-xs-20  wow fadeIn animated"
+                            data-wow-delay=".8s">
+                            <a href="about.php" class="rs-btn">Read More <svg xmlns="http://www.w3.org/2000/svg"
+                                    width="11" height="8" viewBox="0 0 11 8" fill="none">
+                                    <path
+                                        d="M10.3536 4.35355C10.5488 4.15829 10.5488 3.84171 10.3536 3.64645L7.17157 0.464467C6.97631 0.269205 6.65973 0.269204 6.46447 0.464467C6.2692 0.659729 6.2692 0.976311 6.46447 1.17157L9.29289 4L6.46447 6.82843C6.2692 7.02369 6.2692 7.34027 6.46447 7.53553C6.65973 7.7308 6.97631 7.7308 7.17157 7.53553L10.3536 4.35355ZM-4.37114e-08 4.5L10 4.5L10 3.5L4.37114e-08 3.5L-4.37114e-08 4.5Z"
+                                        fill="white" />
+                                </svg></a>
+
+                            <!-- <div class="about-us-2__content-contact d-flex align-items-center">
+                                <i class="fa-solid fa-phone"></i>
+                                <div class="about-us__content-contact-text">
+                                    <h5 class="mb-10 mb-xs-5">Contact With Us</h5>
+                                    <a href="tel: 08029902980">
+                                        <h5> 080- 2990 2980 </h5>
+                                    </a>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Us end -->
+
+
+
+
+
     <!-- feaeture sections start -->
 
-    <!-- Bootstrap 5 Feature Cards -->
 
-    <section class="" style="padding:50px 0px">
+    <!-- <section class="" style="padding:50px 0px">
         <div class="container-fluid">
             <div class="row g-4">
 
-                <!-- Card 1 -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
                         <div class="feature-icon">
                             <i class="fa fa-bolt"></i>
                         </div>
-                        <div class="feature-number">01</div>
                         <div class="feature-content">
-                            <h6>Rapid Approval</h6>
-                            <p>Quick approvals with minimal delay, giving you instant access to funds when needed.</p>
-
+                            <h6>Quick Loan Disbursals</h6>
+                            <p>Experience fast loan disbursal so you can get the funds you need without unnecessary
+                                delays.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- Card 2 -->
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
-                        <div class="feature-icon">
-                            <i class="fa fa-file-alt"></i>
-                        </div>
-                        <div class="feature-number">02</div>
-                        <div class="feature-content">
-                            <h6>Easy Docs</h6>
-                            <p>Enjoy a hassle-free loan journey with minimal paperwork and simple requirements.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Card 3 -->
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
-                        <div class="feature-icon">
-                            <i class="fa fa-wallet"></i>
-                        </div>
-                        <div class="feature-number">03</div>
-                        <div class="feature-content">
-                            <h6>Budget EMI</h6>
-                            <p>Flexible and affordable EMI plans tailored to fit your monthly budget seamlessly.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Card 4 -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
                         <div class="feature-icon">
                             <i class="fa fa-calendar-alt"></i>
                         </div>
-                        <div class="feature-number">04</div>
                         <div class="feature-content">
-                            <h6>Loan Tenure</h6>
-                            <p>Choose repayment periods that perfectly match your financial capacity and goals.</p>
+                            <h6>Flexible Loan Tenure</h6>
+                            <p>Choose repayment periods that best suit your budget and financial comfort. </p>
                         </div>
                     </div>
                 </div>
 
-                <!-- Card 5 -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
+                        <div class="feature-icon">
+                            <i class="fa fa-wallet"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h6>Budget EMI</h6>
+                            <p>Affordable and well-structured EMI plans designed to fit comfortably within your monthly
+                                finances.</p>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
                         <div class="feature-icon">
                             <i class="fa fa-laptop"></i>
                         </div>
-                        <div class="feature-number">05</div>
                         <div class="feature-content">
-                            <h6>Digital Pay</h6>
-                            <p>Secure and user-friendly online options make your repayments quick and stress-free.</p>
+                            <h6>Hassle-free Online Process</h6>
+                            <p>Complete your entire loan application online—quickly, securely, and from the comfort of
+                                your home.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="feature-card shadow wow fadeIn" data-wow-delay=".6s">
+                        <div class="feature-icon">
+                            <i class="fa fa-file-alt"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h6>Easy Documentation</h6>
+                            <p>Get your loan approved with minimal paperwork — our simplified document process saves
+                                time and effort.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="feature-card shadow wow fadeIn" data-wow-delay=".7s">
+                        <div class="feature-icon">
+                            <i class="fa fa-percentage"></i>
+                        </div>
+                        <div class="feature-content">
+                            <h6>Attractive Rates</h6>
+                            <p>Enjoy highly competitive interest rates with flexible and convenient repayment schedules,
+                                designed to suit your financial goals.</p>
                         </div>
                     </div>
                 </div>
@@ -213,7 +366,7 @@ button.accordion-button.fs-2 {
             </div>
         </div>
 
-    </section>
+    </section> -->
 
 
 
@@ -262,77 +415,6 @@ button.accordion-button.fs-2 {
 
 
 
-    <!-- About Us area start -->
-    <section class="about-us-2 section-space-bottom overflow-hidden" data-bg-color="#F9F9F9">
-        <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-xl-6">
-                    <div class="about-us-2__media d-flex flex-row  wow fadeIn animated" data-wow-delay=".1s">
-                        <div class="img1">
-                            <img src="assets/imgs/home1/home-abt-1.jpg" alt="image not found" class="img-fluid">
-
-                            <div class="about-us-2__media-circle-wrapper"
-                                data-parallax='{"scale": 1.1, "y":100, "smoothness": 15}'>
-                                <div class="dash-border">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="146" height="146"
-                                        viewBox="0 0 146 146" fill="none">
-                                        <circle cx="73" cy="73" r="72.5" stroke="#004aac" stroke-linecap="round"
-                                            stroke-dasharray="5 5" />
-                                    </svg>
-                                </div>
-                                <div class="about-us-2__media-circle">
-                                    <h3><span class="counter">40</span>+</h3>
-                                    <h5>Years</h5>
-                                    <h5>Experiences</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="img2">
-                            <img src="assets/imgs/home1/home-abt-2.jpg" alt="image not found" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-6">
-                    <div class="about-us-2__content">
-                        <span
-                            class="section__subtitle section__subtitle-2 uppercase justify-content-start mb-20 wow fadeIn animated"
-                            data-wow-delay=".1s">About Us <img class="rightLeft"
-                                src="assets/imgs/icons/arrow-right-circle.svg" alt="arrow not found"></span>
-                        <h2 class="section__title mb-20 mb-xs-10 wow fadeIn animated" data-wow-delay=".5s">About shaan
-                            Finance</h2>
-
-                        <p class=" wow fadeIn animated" data-wow-delay=".6s">At Shaan Finance, we are dedicated to
-                            providing top-tier financial solutions designed to help our clients achieve their personal
-                            and business goals. Our mission is to empower our clients through expert financial guidance,
-                            innovative products, and exceptional customer service.</p>
-
-                        <div class="about-us-2__content-button-wrapper d-flex align-items-center mt-50 mt-sm-30 mt-xs-20  wow fadeIn animated"
-                            data-wow-delay=".8s">
-                            <a href="about.php" class="rs-btn">Read More <svg xmlns="http://www.w3.org/2000/svg"
-                                    width="11" height="8" viewBox="0 0 11 8" fill="none">
-                                    <path
-                                        d="M10.3536 4.35355C10.5488 4.15829 10.5488 3.84171 10.3536 3.64645L7.17157 0.464467C6.97631 0.269205 6.65973 0.269204 6.46447 0.464467C6.2692 0.659729 6.2692 0.976311 6.46447 1.17157L9.29289 4L6.46447 6.82843C6.2692 7.02369 6.2692 7.34027 6.46447 7.53553C6.65973 7.7308 6.97631 7.7308 7.17157 7.53553L10.3536 4.35355ZM-4.37114e-08 4.5L10 4.5L10 3.5L4.37114e-08 3.5L-4.37114e-08 4.5Z"
-                                        fill="white" />
-                                </svg></a>
-
-                            <div class="about-us-2__content-contact d-flex align-items-center">
-                                <i class="fa-solid fa-phone"></i>
-                                <div class="about-us__content-contact-text">
-                                    <h5 class="mb-10 mb-xs-5">Contact With Us</h5>
-                                    <a href="tel: 08029902980">
-                                        <h5> 080- 2990 2980 </h5>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- About Us end -->
-
 
 
     <!-- latest-service-2 area start -->
@@ -352,11 +434,11 @@ button.accordion-button.fs-2 {
                         Today!</h2>
                 </div>
                 <div class="col-lg-5">
-                    Shaan Finance offers a comprehensive suite of loan solutions tailored to your needs. From supply
+                    <!-- Shaan Finance offers a comprehensive suite of loan solutions tailored to your needs. From supply
                     chain finance that boosts operational efficiency to loan against property for unlocking asset value,
                     we’ve got you covered. Fuel your business growth with our business loans, meet urgent needs with
                     gold loans, or achieve your dream home with our home loans. Trust Shaan Finance to support your
-                    financial journey with speed and reliability.
+                    financial journey with speed and reliability. -->
                 </div>
             </div>
 
@@ -449,7 +531,7 @@ button.accordion-button.fs-2 {
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                     <div class="latest-service-2__item mb-30 wow fadeIn animated" data-wow-delay=".9s">
                         <div class="latest-service-2__item-media">
-                            <img src="assets/imgs/common/pro-comercial.jpg" alt="images not found" class="img-fluid">
+                            <img src="assets/imgs/common/ser-vecle-abt1.jpg" alt="images not found" class="img-fluid">
                         </div>
                         <div class="latest-service-2__item-text text-center">
                             <h5 class="mb-15 mb-xs-10"></h5>
@@ -470,7 +552,7 @@ button.accordion-button.fs-2 {
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                     <div class="latest-service-2__item mb-30 wow fadeIn animated" data-wow-delay=".9s">
                         <div class="latest-service-2__item-media">
-                            <img src="assets/imgs/common/pro-bill.jpg" alt="images not found" class="img-fluid">
+                            <img src="assets/imgs/common/ser-billabt1.jpg" alt="images not found" class="img-fluid">
                         </div>
                         <div class="latest-service-2__item-text text-center">
                             <h5 class="mb-15 mb-xs-10"></h5>
@@ -491,14 +573,14 @@ button.accordion-button.fs-2 {
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                     <div class="latest-service-2__item mb-30 wow fadeIn animated" data-wow-delay=".9s">
                         <div class="latest-service-2__item-media">
-                            <img src="assets/imgs/common/pro-shanloan.jpg" alt="images not found" class="img-fluid">
+                            <img src="assets/imgs/common/ser-medpro.jpg" alt="images not found" class="img-fluid">
                         </div>
                         <div class="latest-service-2__item-text text-center">
                             <h5 class="mb-15 mb-xs-10"></h5>
-                            <a href="shaanmedpro.php">
-                                <h4>Shaan Finance Medpro loan </h4>
+                            <a href="loantoprofessionals.php">
+                                <h4>Loan to Professionals </h4>
                             </a>
-                            <a href="shaanmedpro.php" class="rs-btn mt-4">Read More <svg
+                            <a href="loantoprofessionals.php" class="rs-btn mt-4">Read More <svg
                                     xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8"
                                     fill="none">
                                     <path
@@ -556,71 +638,95 @@ button.accordion-button.fs-2 {
     <section class="py-5" style="background-color: #0b1b3f; color: #fff;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
-                    <h6 style="color: #fff; text-transform: uppercase;">Why Choose</h6>
-                    <h2 class="fw-bold mb-2 text-start">Discover Why Customers </h2>
-                    <h2 class="fw-bold mb-4">Prefer Shaan Finance</h2>
-                    <p class="mb-5" style="color: #cbd5e1;">Here’s why choosing Shaan Finance is a smart financial move
+                <div class="col-lg-12">
+                    <h6 class="text-center" style="color: #fff; text-transform: uppercase;">Why Choose</h6>
+                    <!-- <h2 class="fw-bold mb-2 text-start">Discover Why Customers </h2> -->
+                    <h2 class="fw-bold mb-4 text-center">Discover Why Customers Prefer Shaan Finance</h2>
+                    <p class="mb-5 text-center" style="color: #cbd5e1;">Here’s why choosing Shaan Finance is a smart
+                        financial move
                     </p>
                     <div class="row text-center mb-5">
-                        <div class="col-md-6 mb-4">
+                        <div class="col-md-4 mb-4">
                             <div class="px-3 py-4 text-left h-100"
                                 style="background-color: #13204d; border-radius: 10px;">
-                                <i class="fa fa-bolt" style="font-size: 22px; color: #fff;"></i>
-                                <h5 class="mt-3 text-white">Fast Loan Processing</h5>
-                                <p style="color: #cbd5e1;">Quick approvals with minimal turnaround time to meet your
-                                    needs faster.</p>
+                                <i class="fas fa-lock" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">Secured Data System</h5>
+                                <p style="color: #cbd5e1;">Your data stays fully encrypted and protected with advanced
+                                    security.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-6 mb-4">
+                        <div class="col-md-4  mb-4">
                             <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
-                                <i class="fa fa-file-lines" style="font-size: 22px; color: #fff;"></i>
-                                <h5 class="mt-3 text-white">Minimal Documentation</h5>
-                                <p style="color: #cbd5e1;">No lengthy paperwork – just simple, streamlined processing.
+                                <i class="fa fa-layer-group" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">Transparent Process</h5>
+                                <p style="color: #cbd5e1;">Experience a clear, step-by-step loan process ensuring full
+                                    transparency.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 mb-4">
+                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
+                                <i class="fa fa-user-check" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">User-friendly</h5>
+                                <p style="color: #cbd5e1;">Enjoy a simple, intuitive interface for easy application and
+                                    tracking.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 mb-4">
+                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
+                                <i class="fa fa-bolt" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">Quick Approval & Disbursal</h5>
+                                <p style="color: #cbd5e1;">Get instant approval and quick fund disbursal with our
+                                    digital process.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 mb-4">
+                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
+                                <i class="fa fa-credit-card" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">Hassle-free Repayment Options</h5>
+                                <p style="color: #cbd5e1;">Choose flexible repayment modes that fit your financial
+                                    comfort.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-4 mb-4">
+                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
+                                <i class="fa fa-chart-line" style="font-size: 22px; color: #f46a25;"></i>
+                                <h5 class="mt-3 text-white">Higher Loan Amounts</h5>
+                                <p style="color: #cbd5e1;">
+                                    Get up to ₹50 Lakhs based on your eligibility,
+                                    chosen products, and business performance.
                                 </p>
                             </div>
                         </div>
 
-                        <div class="col-md-6 mb-4">
-                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
-                                <i class="fa fa-calendar-check" style="font-size: 22px; color: #fff;"></i>
-                                <h5 class="mt-3 text-white">Flexible EMIs</h5>
-                                <p style="color: #cbd5e1;">Choose EMI plans and tenures that suit your income and
-                                    lifestyle.</p>
-                            </div>
-                        </div>
 
-                        <div class="col-md-6 mb-4">
-                            <div class="px-3 py-4 h-100" style="background-color: #13204d; border-radius: 10px;">
-                                <i class="fa fa-lightbulb" style="font-size: 22px; color: #fff;"></i>
-                                <h5 class="mt-3 text-white">Tailored Solutions</h5>
-                                <p style="color: #cbd5e1;">Customized financial offerings for salaried, self-employed,
-                                    and businesses.</p>
-                            </div>
-                        </div>
 
                         <div class="col-lg-12 mx-auto">
                             <div class="px-3 py-4"
-                                style="background-color: #13204d; border-left: 5px solid #38bdf8; border-radius: 10px;">
-                                <p class="mb-0 text-white text-start">
-                                    <span style="font-size: 14px; color: #38bdf8;">“</span>
-                                    Choose <strong>Shaan Finance</strong> for <span style="color: #38bdf8;">smart,
+                                style="background-color: #13204d; border-left: 5px solid #f46a25; border-radius: 10px;">
+                                <p class="mb-0 text-white text-center fs-2">
+                                    <span style="font-size: 14px; color: #f46a25;">“</span>
+                                    Choose <strong>Shaan Finance</strong> for <span style="color: #f46a25;">smart,
                                         secure, and
                                         simplified lending</span> – built on a foundation of trust, transparency, and
-                                    technology.
-                                    <span style="font-size: 14px; color: #38bdf8;">”</span>
+                                    technology
+                                    <span style="font-size: 14px; color: #f46a25;">”</span>
                                 </p>
                             </div>
                         </div>
                     </div>
 
                 </div>
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-5">
                     <div class="">
-                        <img src="assets/imgs/common/whyus-img.jpg" alt="" class="rounded w-100 h-100" />
+                        <img src="assets/imgs/common/whyus-1.png" alt="" class="rounded w-100 h-100" />
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -635,43 +741,47 @@ button.accordion-button.fs-2 {
         <div class="container-fluid">
             <div class="row text-center mt-4">
 
+                <!-- Card 1 -->
                 <div class="col-xl-3 col-md-6 mb-4">
                     <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
                         <div class="mb-3">
-                            <i class="fa fa-users" style="font-size: 2.5rem; color: #004aac;"></i>
+                            <i class="fa fa-landmark" style="font-size: 2.5rem; color: #f46a25;"></i>
+                        </div>
+                        <h2 class="mb-1" style="color: #000;">RBI</h2>
+                        <p class="text-center fw-bold" style="color: #f46a25;">Complied NBFC</p>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-xl-3 col-md-6 mb-4">
+                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
+                        <div class="mb-3">
+                            <i class="fa fa-calendar-alt" style="font-size: 2.5rem; color: #f46a25;"></i>
+                        </div>
+                        <h2 class="mb-1" style="color: #000;">Since</h2>
+                        <p class="text-center fw-bold" style="color: #f46a25;">1982</p>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-xl-3 col-md-6 mb-4">
+                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
+                        <div class="mb-3">
+                            <i class="fa fa-users" style="font-size: 2.5rem; color: #f46a25;"></i>
+                        </div>
+                        <h2 class="mb-1" style="color: #000;"><span class="counter">3</span>k+</h2>
+                        <p class="text-center fw-bold" style="color: #f46a25;">Happy Clients</p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="col-xl-3 col-md-6 mb-4">
+                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
+                        <div class="mb-3">
+                            <i class="fa fa-coins" style="font-size: 2.5rem; color: #f46a25;"></i>
                         </div>
                         <h2 class="mb-1" style="color: #000;"><span class="counter">120</span>+</h2>
-                        <p class="text-center" style="color: #000;">Team Members</p>
-                    </div>
-                </div>
-
-                <div class="col-xl-3 col-md-6 mb-4">
-                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
-                        <div class="mb-3">
-                            <i class="fa fa-briefcase" style="font-size: 2.5rem; color: #004aac;"></i>
-                        </div>
-                        <h2 class="mb-1" style="color: #000;"><span class="counter">10</span>k+</h2>
-                        <p class="text-center" style="color: #000;">Loans Processed</p>
-                    </div>
-                </div>
-
-                <div class="col-xl-3 col-md-6 mb-4">
-                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
-                        <div class="mb-3">
-                            <i class="fa fa-trophy" style="font-size: 2.5rem; color: #004aac;"></i>
-                        </div>
-                        <h2 class="mb-1" style="color: #000;"><span class="counter">15</span>+</h2>
-                        <p class="text-center" style="color: #000;">Industry Awards</p>
-                    </div>
-                </div>
-
-                <div class="col-xl-3 col-md-6 mb-4">
-                    <div class="p-4 h-100" style="background-color: #f9f9f9; border-radius: 10px;">
-                        <div class="mb-3">
-                            <i class="fa fa-star" style="font-size: 2.5rem; color: #004aac;"></i>
-                        </div>
-                        <h2 class="mb-1" style="color: #000;"><span class="counter">5</span>k+</h2>
-                        <p class="text-center" style="color: #000;">Happy Clients</p>
+                        <p class="text-center fw-bold" style="color: #f46a25;">AUM (Mn)</p>
                     </div>
                 </div>
 
@@ -682,27 +792,23 @@ button.accordion-button.fs-2 {
     <!-- counter section close -->
 
     <!-- FAQ -->
-    <section class="faq__area  section-space bg-light">
+    <section class="faq__area  section-space">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
                     <div
-                        class="latest-blog__content latest-blog__content__home-2 text-center mb-60 mb-lg-50 mb-md-40 mb-sm-35 mb-xs-30">
+                        class=" mb-4 latest-blog__content latest-blog__content__home-2 text-center mb-60 mb-lg-50 mb-md-40 mb-sm-35 mb-xs-30">
                         <span
-                            class="section__subtitle section__subtitle-2 uppercase justify-content-center mb-20 wow fadeIn animated"
-                            data-wow-delay=".1s"><img class="xlab-img rightLeft" src="assets/imgs/icons/xlab.svg"
-                                alt="arrow not found"> OUR FAQ</span>
-                        <h2 class="section__title mb-0 wow fadeIn animated" data-wow-delay=".5s">Frequently Asked
+                            class=" mb-2 text-white section__subtitle section__subtitle-2 uppercase justify-content-center mb-20 wow fadeIn animated"
+                            data-wow-delay=".1s"> OUR FAQ</span>
+                        <h2 class=" text-white section__title mb-0 wow fadeIn animated" data-wow-delay=".5s">Frequently
+                            Asked
                             Questions</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 col-lg-5 pt-5">
-                    <img src="assets/imgs/home1/faq-f.jpg" alt="" width="100%"
-                        style="border-radius: 15px; margin-bottom: 20px;">
-                </div>
-                <div class="col-md-12 col-lg-7">
+                <div class="col-md-12 col-lg-6 mb-3">
                     <div class="accordion accordion-flush" id="accordionFlushExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -715,192 +821,210 @@ button.accordion-button.fs-2 {
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body"> Shaan Finance Limited, registered as an NBFC-ND with the
-                                    Reserve Bank of India (RBI). We are into retail lending space proving personal loans
-                                    and education loans.
+                                    Reserve Bank of India (RBI). We are into retail lending space providing various secured and unsecured loans.
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed fs-2" type="button"
-                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseLoan"
-                                        aria-expanded="false" aria-controls="flush-collapseLoan">
-                                        How Can I apply for the loan?
-                                    </button>
-                                </h2>
-                                <div id="flush-collapseLoan" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body">
-                                        <a href="" style="color:#004aab"> Click Here</a> to start your application
-                                        journey with us.
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseLoan" aria-expanded="false"
+                                    aria-controls="flush-collapseLoan">
+                                    How Can I apply for the loan?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseLoan" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    <a href="" style="color:#f46a25"> Click Here</a> to start your application
+                                    journey with us.
                                 </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
-                                            aria-expanded="false" aria-controls="flush-collapseTwo">
-                                            How much can I borrow?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseTwo" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            The down payment and loan amount varies based on the type of loan and is
-                                            subject to our Credit Policy, eligibility criteria and other T&Cs. Max loan
-                                            amount capping for below loan as follows:
-                                            <ul>
-                                                <li>
-                                                    Personal Loan: upto 10 lakhs
-                                                </li>
-                                                <li>
-                                                    Advance against Salary loan: upto 3 lakhs
-                                                </li>
-                                                <li>
-                                                    Student Fee financing scheme: upto 5 lakhs
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseTwo" aria-expanded="false"
+                                    aria-controls="flush-collapseTwo">
+                                    How much can I borrow?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    The down payment and loan amount varies based on the type of loan and is
+                                    subject to our Credit Policy, eligibility criteria and other T&Cs. Max loan
+                                    amount capping for below loan as follows:
+                                    <ul>
+                                        <li>
+                                            Personal Loan: upto 10 lakhs
+                                        </li>
+                                        <li>
+                                            Advance against Salary loan: upto 3 lakhs
+                                        </li>
+                                        <li>
+                                            Student Fee financing scheme: upto 5 lakhs
+                                        </li>
+                                        <li>
+                                            Secured & unsecured Business loan: upto 50 lakhs
+                                        </li>
+                                        <li>
+                                            Commercial Vehicle Loan: upto 50 lakhs
+                                        </li>
+                                        <li>
+                                            Bill Discounting Scheme: upto 50 lakhs
+                                        </li>
+                                         <li>
+                                            Loan to professionals: upto 25 lakhs
+                                        </li>
+                                    </ul>
                                 </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseThree"
-                                            aria-expanded="false" aria-controls="flush-collapseThree">
-                                            How much time will it take to get my credit evaluation done?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseThree" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            It normally takes from 8 – 24 hours depending upon the information
-                                            furnished.
-                                        </div>
-                                    </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseThree" aria-expanded="false"
+                                    aria-controls="flush-collapseThree">
+                                    How much time will it take to get my credit evaluation done?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    It normally takes from 8 – 24 hours depending upon the information
+                                    furnished.
                                 </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseFour"
-                                            aria-expanded="false" aria-controls="flush-collapseFour">
-                                            What documents are required for processing my loan application?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseFour" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            Documents required for processing loan application are-
-                                            <ul>
-                                                <li>
-                                                    PAN
-                                                </li>
-                                                <li>
-                                                    Aadhar Card
-                                                </li>
-                                                <li>
-                                                    Address proof
-                                                </li>
-                                                <li>
-                                                    3 months’ pay slips
-                                                </li>
-                                                <li>
-                                                    6 months’ salary account statement
-                                                </li>
-                                            </ul>
-                                            However, the requirement may decrease or increase depending on customer’s
-                                            individual profile and the nature of loan.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseFive"
-                                            aria-expanded="false" aria-controls="flush-collapseFive">
-                                            I have recently joined new organization, am I eligible for loan?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseFive" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            Yes, your loan application can be considered, with earlier employment
-                                            details and documentation.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseSix"
-                                            aria-expanded="false" aria-controls="flush-collapseSix">
-                                            Do you ask for co-applicant for sanctioning loan?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseSix" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            Co-applicant is not mandatory for all customers. However, in very few
-                                            circumstances, we would request you to provide with co-applicant; it is
-                                            decided on basis of credit requirements.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseSeaven"
-                                            aria-expanded="false" aria-controls="flush-collapseSeaven">
-                                            Do I need to provide any security or collateral?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseSeaven" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            No security or collateral is required for obtaining our unsecured loans.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseEight"
-                                            aria-expanded="false" aria-controls="flush-collapseEight">
-                                            Do I have an option to pre-close a loan?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseEight" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            Yes, you can pre-pay the loan facility anytime. Please refer to <a
-                                                href="servicecharges.php" style="color:#004aab"> Service charges &
-                                                ROI</a>. </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed fs-2" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#flush-collapseNine"
-                                            aria-expanded="false" aria-controls="flush-collapseNine">
-                                            How can I contact you?
-                                        </button>
-                                    </h2>
-                                    <div id="flush-collapseNine" class="accordion-collapse collapse"
-                                        data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">
-                                            Please refer <a href="contact.php" style="color:#004aab">Contact</a> and
-                                            fill up the form and we will contact you within 24 working hours. </div>
-                                    </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                    aria-controls="flush-collapseFour">
+                                    What documents are required for processing my loan application?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Documents required for processing loan application are-
+                                    <ul>
+                                        <li>
+                                           KYC
+                                        </li>
+                                        <li>
+                                            3 months’ pay slips / IT Returns
+                                        </li>
+                                        <li>
+                                            6 months’ salary account statement / business account statement
+                                        </li>
+                                         <li>
+                                            Form 16 / Financial Statements
+                                        </li>
+                                         <li>
+                                           Business Proof
+                                        </li>
+                                    </ul>
+                                    However, the requirement may decrease or increase depending on customer’s
+                                    individual profile and the nature of loan.
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <div class="accordion accordion-flush" id="accordionFlushExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseFive" aria-expanded="false"
+                                    aria-controls="flush-collapseFive">
+                                    I have recently joined new organization, am I eligible for loan?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Yes, your loan application can be considered, with earlier employment
+                                    details and documentation.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseSix" aria-expanded="false"
+                                    aria-controls="flush-collapseSix">
+                                    Do you ask for co-applicant for sanctioning loan?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSix" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Co-applicant is not mandatory for all customers. However, in very few
+                                    circumstances, we would request you to provide with co-applicant; it is
+                                    decided on basis of credit requirements.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseSeaven" aria-expanded="false"
+                                    aria-controls="flush-collapseSeaven">
+                                    Do I need to provide any security or collateral?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseSeaven" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    No security or collateral is required to obtain our unsecured loans; however, it will be required for secured loans.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseEight" aria-expanded="false"
+                                    aria-controls="flush-collapseEight">
+                                    Do I have an option to pre-close a loan?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseEight" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Yes, you can pre-pay the loan facility anytime. Please refer to <a
+                                        href="servicecharges.php" style="color:#f46a25"> Service charges &
+                                        ROI</a>. </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseNine" aria-expanded="false"
+                                    aria-controls="flush-collapseNine">
+                                    How can I contact you?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseNine" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    Please refer <a href="contact.php" style="color:#f46a25">Contact Us</a> and
+                                    fill up the form and we will contact you within 24 working hours. </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- Faq close -->
 
 
     <!-- reviews sections start  -->
-    <section class="feedback section-space py-5">
+    <section class="feedback section-space py-5 d-none">
         <div class="container-fluid">
 
             <div class="row">
@@ -1034,16 +1158,20 @@ button.accordion-button.fs-2 {
                 <div class="row">
                     <div class="col-md-6 mb-2 text-center">
                         <img src="assets/imgs/home1/ShannQrcode.png" class="mt-4" width="70%" style="width:200px;" />
-                        <h5 class="mt-3">Apply to Scan</h5>
+                        <h5 class="mt-3">Scan to Apply</h5>
                     </div>
                     <div class="col-md-6 mb-2 ">
                         <h4>
-                            Unlock Your Financial Potential with Shaan Finance Loans
+                           Unlock Your Financial Potential with Shaan Finance Loans
                         </h4>
-                        <p>
-                            Are you dreaming of a home renovation, planning a special event, or needing
-                            to cover unexpected expenses? Our Personal Loans offer flexible terms and
-                            competitive rates to help you achieve your goals with ease.
+                        <p class="mb-2">
+                            Are you dreaming of a home renovation, planning a special event, needing to cover unexpected
+                            expenses, purchasing a commercial vehicle for business, financing your education needs or
+                            expanding your business.
+                        </p>
+                        <p class="mb-2">
+                            Our Loan products offer flexible terms and competitive rates to
+                            help you achieve your goals with ease.
                         </p>
                         <a href="https://apply.shaanfinance.in/journey/start/shaan-finance" class="rs-btn">Apply Now</a>
                     </div>

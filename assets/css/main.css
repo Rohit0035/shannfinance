@@ -159,6 +159,7 @@ h6 {
   @color declaration
   */
   --rs-common-blue: #1745B3;
+  --rs-common-org: #f46a25;
   --rs-common-white: #FFFFFF;
   --rs-common-black: #000000;
   --rs-common-black-2: #121212;
@@ -1117,7 +1118,7 @@ textarea {
   content: "";
   -webkit-transition: all 0.35s;
   transition: all 0.35s;
-  background-color: var(--rs-heading-primary);
+  background-color: var(--rs-common-org);
 }
 .rs-btn.btn-black {
   background-color: var(--rs-common-black);
@@ -1807,6 +1808,7 @@ textarea {
   height: 18px;
   margin-left: 0;
   margin-right: 15px;
+  display: none;
 }
 .section__title {
   text-transform: capitalize;
@@ -6062,8 +6064,9 @@ body .ui-tooltip {
   left: 0;
   right: 0;
   z-index: 1;
-  bottom: 125px;
+  bottom: 30px;
   position: absolute;
+  text-align: center;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .banner-4-active .banner-4-pagination {
@@ -6083,10 +6086,10 @@ body .ui-tooltip {
   background: var(--rs-common-black);
   background-color: transparent;
   border-radius: 500px;
-  border: 2px solid var(--rs-common-black);
+  border: 2px solid #f46a25;
 }
 .banner-4-active .banner-4-pagination .swiper-pagination-bullet-active {
-  background: var(--rs-common-black);
+  background: #f46a25;
   border: transparent;
 }
 
@@ -6560,7 +6563,7 @@ body .ui-tooltip {
   top: 110%;
   inset-inline-start: 0;
   min-width: 350px;
-  background: var(--rs-common-blue);
+  background: var(--rs-common-org);
   z-index: 99;
   visibility: hidden;
   opacity: 0;
@@ -6568,7 +6571,7 @@ body .ui-tooltip {
           transform-origin: top center;
   padding: 35px 0 6px;
   color: var(--rs-common-white);
-  border: 1px solid var(--rs-border-primary);
+  border: 1px solid var(--rs-common-org);
 }
 .main-menu ul li .submenu li {
   display: block;
@@ -6606,7 +6609,7 @@ body .ui-tooltip {
   transform: translateY(-50%);
   width: 0px;
   height: 1px;
-  background-color: var(--rs-theme-primary);
+  background-color: var(--rs-body-primary);
 }
 .main-menu ul li .submenu li .submenu {
   inset-inline-start: 100%;
@@ -9653,7 +9656,7 @@ body .ui-tooltip {
 .our-team__item {
   overflow: hidden;
   border-radius: 5px;
-  background: transparent;
+  background: #f9f9f9;
   position: relative;
   z-index: 1;
 }
@@ -9703,11 +9706,20 @@ body .ui-tooltip {
   width: 100%;
   overflow: hidden;
 }
-.our-team__item-media img {
+/* .our-team__item-media img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+   object-fit: cover;
+} */
+.our-team__item-media img {
+    width: 100%;
+    /* height: 100%; */
+    -o-object-fit: cover;
+    object-fit: cover;
+    padding: 15px;
+    height: 336px;
+    /* border-radius: 10px; */
 }
 .our-team__item-content {
   width: 100%;
@@ -11357,7 +11369,7 @@ body .ui-tooltip {
   margin-top: -79.5px;
   padding: 20px 20px;
   border-radius: 5px;
-  border-bottom: 4px solid var(--rs-theme-primary);
+  border-bottom: 4px solid#f46a25;
   background: var(--rs-common-white);
   -webkit-box-shadow: 0px 4.8px 24.4px -6px rgba(19, 16, 34, 0.1);
           box-shadow: 0px 4.8px 24.4px -6px rgba(19, 16, 34, 0.1);
@@ -11644,7 +11656,7 @@ body .ui-tooltip {
   width: 130px;
   height: 130px;
   position: absolute;
-  background: var(--rs-theme-primary);
+  background: #f46a25;
   border-radius: 500px;
 }
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
@@ -14872,7 +14884,7 @@ a.rs-btn.stt-rate-btn {
   top: 50%;
   right: 0;
   transform: translateY(-50%);
-  background-color: #004aac;
+  background-color: #f46a25;
   color: white;
   padding: 10px 20px;
   cursor: pointer;

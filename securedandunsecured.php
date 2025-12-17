@@ -5,7 +5,7 @@
 <main>
 
     <!-- Breadcrumb area start  -->
-    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/ser-bg-secure.jpg">
+    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/bg-sec.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-12">
@@ -54,7 +54,7 @@
                             <ul>
                                 <li>Applicant must be between 21–60 years of age</li>
                                 <li>Business should be operational for at least 2 years</li>
-                                <li>Minimum annual income of ₹3 Lakhs</li>
+                                <li> Minimum annual income of ₹3.60 Lakhs</li>
                                 <li>Valid business registration and financial statements</li>
                             </ul>
                         </div>
@@ -128,9 +128,10 @@
                                 <div class="sidebar__widget-contact-item d-flex">
                                     <div class="sidebar__widget-contact-icon"><i class="fa-regular fa-clock"></i></div>
                                     <div class="sidebar__widget-contact-item-text">
-                                        <h5>Monday - Friday</h5>
+                                        <h5>Business Hours</h5>
+
                                         <ul>
-                                            <li><a>Monday to Friday: 9:30 am – 5:30 pm</a></li>
+                                            <li><a>Monday to Saturday: 10:00 am to 6:00 pm</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -140,6 +141,7 @@
                                     </div>
                                     <div class="sidebar__widget-contact-item-text">
                                         <h5>Location</h5>
+
                                         <ul>
                                             <li><a href="https://maps.app.goo.gl/R8Y6ZY6s1KrcGWc67">SB One, 260/33, 9th
                                                     A Main Road, 3rd Block, Jayanagar, Bangalore 560011</a></li>
@@ -151,9 +153,10 @@
                                     <div class="sidebar__widget-contact-icon"><i class="fa-solid fa-phone"></i></div>
                                     <div class="sidebar__widget-contact-item-text">
                                         <h5>Call us</h5>
+
                                         <ul>
-                                            <li>Mobile: <a href="tel:08029902980">080-2990 2980</a></li>
-                                            <li>Email: <a href="info@shaanfinance.in">info@shaanfinance.in</a></li>
+                                            <li>Phone: <a href="tel: 08029902980"> 080- 2990 2980</a></li>
+                                            <li>Email: <a href="info@shaanfinance.in"> info@shaanfinance.in</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -165,6 +168,17 @@
         </div>
     </section>
     <!-- service details area end -->
+
+
+
+    <!-- process section start -->
+
+
+    <?php include 'process.php';?>
+
+
+    <!-- process section close -->
+
 
     <!-- section start -->
     <section class="emi-sec" data-background="assets/imgs/home1/emi-bg-img.jpg">

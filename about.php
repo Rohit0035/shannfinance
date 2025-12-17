@@ -8,11 +8,10 @@
     border-radius: 100px;
     margin-bottom: 12px;
 } */
-
 </style>
 <main>
     <!-- Breadcrumb area start  -->
-    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/portfolio/page-header-1.jpg">
+    <div class="breadcrumb__area breadcrumb-space overly" data-background="assets/imgs/common/sec-abt.jpg">
         <div class="container-fluid">
             <div class="row align-items-center justify-content-between">
                 <div class="col-12">
@@ -35,31 +34,57 @@
     </div>
     <!-- Breadcrumb area start  -->
     <!-- About area start -->
-    <section class="about-us section-space mb-20 mt-80">
+    <section class="about-us section-space mb-20 mt-20">
         <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-xl-5">
+                <div class="col-xl-6">
                     <div class="about-us__content">
-                        <span class="section__subtitle section__subtitle-2 uppercase justify-content-start mb-10 wow fadeIn animated" data-wow-delay=".1s"><img class="xlab-img rightLeft" src="assets/imgs/icons/xlab.svg" alt="arrow not found">ABOUT US</span>
-                        <h2 class="section__title mb-20  wow fadeIn animated" data-wow-delay=".3s">Strategic Excellence Measurable Results</h2>
-                        <div class="description mb-35 mb-sm-25 mb-xs-20 wow fadeIn animated" data-wow-delay=".5s">
-                            <p>Shaan Finance Limited is an unlisted public company incorporated on 08 April, 1982. It is classified as a public limited company and is located in Bangalore Karnataka 560 011, Karnataka.  It is classified as Non-government company and is registered at Registrar of Companies, Bangalore. The company’s Corporate Identification Number is (CIN) U65921KA1982PLC004713 Its Email address is Info@shaanfinance.in and its registered address is SB One, 260/33, 9th A Main Road, 3rd Block, Jayanagar, Bangalore 560011.</p>
+                        <span
+                            class="section__subtitle section__subtitle-2 uppercase justify-content-start mb-10 wow fadeIn animated"
+                            data-wow-delay=".1s"><img class="xlab-img rightLeft" src="assets/imgs/icons/xlab.svg"
+                                alt="arrow not found"> Simplifying Finance</span>
+                        <!-- <h2 class="section__title mb-20  wow fadeIn animated" data-wow-delay=".3s">Strategic Excellence
+                            Measurable Results</h2> -->
+                        <h2 class="section__title mb-20  wow fadeIn animated" data-wow-delay=".3s">About Shaan Finance
+                        </h2>
+                        <div class="description mb-20 mb-sm-25 mb-xs-20 wow fadeIn animated" data-wow-delay=".5s">
+                            <p>
+                                Shaan Finance Limited is an unlisted public limited company, incorporated on April 8,
+                                1982. The company is headquartered in Bangalore, with its registered office located at
+                                SB One 260/33, 9th A Main Road, 3rd Block, Jayanagar, Bangalore, Karnataka – 560001.
+                            </p>
                         </div>
-                        <div class="description mb-35 mb-sm-25 mb-xs-20 wow fadeIn animated" data-wow-delay=".5s">
-                            <p>It's authorized share capital is Rs. 15,000,000 and its paid up capital is Rs. 10,000,000. It is involved as a non-deposit taking non-banking financial Company under the category of Investment and Credit Company.</p>
+                        <div class="description mb-20 mb-sm-25 mb-xs-20 wow fadeIn animated" data-wow-delay=".5s">
+                            <p>
+                                The company is a Bangalore-based Non-Banking Financial Company (NBFC) engaged in
+                                providing financial services across various sectors. It operates with a well-defined
+                                objective of catering to the diverse financial needs of employees from different
+                                sectors, professionals, businesspersons, self-employed individuals, retail traders,
+                                entrepreneurs, and students. In addition to extending credit facilities to all eligible
+                                sectors, the main priority is to serve underprivileged groups, weaker sections of
+                                society, and underserved communities across the country.
+                            </p>
+                        </div>
+                        <div class="description mb-20 mb-sm-25 mb-xs-20 wow fadeIn animated" data-wow-delay=".5s">
+                            <p>
+                                Being a Non-Banking Financial Institution, our primary objective is to foster the
+                                development of the people by providing financial assistance along with expert financial
+                                advice throughout the duration of the relationship and beyond.
+                            </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-7">
+                <div class="col-xl-6">
                     <div class="about-us__media  wow fadeIn animated" data-wow-delay=".4s">
-                        <div class="img">
+                        <div class="">
                             <div class="circle-image upDown" data-background="assets/imgs/about/circle-shape.svg"></div>
                             <div class="circle-bg leftRight"></div>
                             <img class="img-fluid" src="assets/imgs/home1/abt-main2.jpg" alt="Image Not Found">
-                            <div class="about-us__experience-box d-inline-flex flex-column" data-bg-color="#004aac" data-parallax='{"y": -160, "smoothness": 15}'>
+                            <!-- <div class="about-us__experience-box d-inline-flex flex-column" data-bg-color="#004aac"
+                                data-parallax='{"y": -160, "smoothness": 15}'>
                                 <h2 class="title color-white mb-10"><span class="counter">40</span>+</h2>
                                 <h5 class="color-white">Years Of Experiences</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -71,24 +96,69 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 wow fadeIn animated" data-wow-delay=".5s">
-                    <div class="shadow mb-3 p-4 st-bx-1">
-                        <h3>Our Vision</h3>
-                        <p>To operate as a transparent and professional financial company with well-defined objectives of meeting the stakeholders’ values with utmost care, concern and competence. The company shall endeavor to explore newer areas of ethical business opportunities for financing to individuals, business entities & enterprises and shall address the financial needs within the overall compliant regime of regulatory guidelines. </p>
-                        <p><b>
-                                “To become a top financial institution of national standard committed to augmenting Stakeholders’ Value through Collaboration, Credibility, Commitment, Concern, Care, Consistency and Competence".
-                            </b></p>
+                    <div class="shadow mb-3 p-4 h-100">
+                        <h3 style="color:#f46a25;"><span><i class="fas fa-eye me-3"></i></span>Our Vision</h3>
+                        <hr class="py-2" />
+                        <div class="row">
+                            <div class="col-12 col-md-4 mb-2">
+                                <img src="assets/imgs/common/vision-img.png" alt="vision-img" class="vm-img" />
+                            </div>
+                            <div class='col-12 col-md-8'>
+                                <p class="mb-0">
+                                    To operate as a transparent and professional financial company with well-defined
+                                    objectives
+                                    of meeting the stakeholders’ values with utmost care, concern and competence. The
+                                    company
+                                    shall endeavor to explore newer areas of ethical business opportunities for
+                                    financing to
+                                    individuals, business entities & enterprises and address the financial needs within
+                                    the
+                                    overall compliant regime of regulatory guidelines.
+                                </p>
+                            </div>
+                        </div>
+
+                        <p class="py-2 mb-0 mt-2 fw-light">The Vision of the Company is:</p>
+                        <p>
+                            <b>
+                                “To become a top financial institution of national standard committed to augmenting
+                                Stakeholders’ Value through Collaboration, Credibility, Commitment, Concern, Care,
+                                Consistency and Competence (7Cs)”
+                            </b>
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-6 wow fadeIn animated" data-wow-delay=".5s">
-                    <div class="shadow mb-3 p-4 st-bx-1">
-                        <h3>Our Mission</h3>
-                        <p>To focus on helping our customers to achieve their financial goals, and understand each customer’s unique purpose, mission and values through an innovative and acceptable customer experience. We strive to empower our customers by offering education, professional advice, business counselling along with resources aimed at facilitating and bringing their ambitions, dreams and objectives to reality.</p>
-                        <p><b>
-                                “To provide financial support along with professional advice designed to give customers the confidence to pursue their own passion, dreams and talents”.
-                            </b></p>
+                    <div class="shadow mb-3 p-4 h-100">
+                        <h3 style="color:#f46a25;"><span><i class="fas fa-rocket"></i></span> Our Mission</h3>
+                        <hr class="py-2" />
+                        <div class="row">
+                            <div class="col-12 col-md-4 mb-2">
+                                <img src="assets/imgs/common/mis-img.jpg" alt="vision-img" class="vm-img" />
+                            </div>
+                            <div class='col-12 col-md-8'>
+                                <p class="mb-0">
+                                    To focus on helping our customers to achieve their financial goals, and understand
+                                    each
+                                    customer’s unique purpose, mission and values through an innovative and acceptable
+                                    customer
+                                    experience. We strive to empower our customers by offering education, professional
+                                    advice,
+                                    business counselling along with resources aimed at facilitating and bringing their
+                                    ambitions, dreams and objectives to reality.
+                                </p>
+                            </div>
+                        </div>
+                        <p class="py-2 mb-0 mt-2 fw-light">Our mission is:</p>
+                        <p>
+                            <b>
+                                “To provide financial support along with professional advice designed to give customers
+                                the confidence to pursue their own passion, dreams and talents”
+                            </b>
+                        </p>
                     </div>
                 </div>
-                <div class="col-md-6 wow fadeIn animated" data-wow-delay=".5s">
+                <!-- <div class="col-md-6 wow fadeIn animated" data-wow-delay=".5s">
                     <div class="shadow mb-3 p-4 st-bx-1">
                         <h3>Corporate Values</h3>
                         <p>Financial services are changing at an increasing pace. We shall have access to financial services in an easy, transparent, secure and friendly environment. We want to improve the quality of life in the communities that we serve, earning their trust and loyalty. Our ambition is to be leaders in all areas we operate and also shall endeavor to operate to expand our leadership in new areas.</p>
@@ -99,8 +169,8 @@
                         <h3>Our Goal</h3>
                         <p>Our Goal is to serve the markets and address the financial needs of those who lack sufficient credit history or documentation needed to avail bank loans keeping an objective of facile loan deployment process amongst the target group which are easy and customer friendly.</p>
                     </div>
-                </div>
-                <div class="col-md-12 wow fadeIn animated" data-wow-delay=".5s">
+                </div> -->
+                <!-- <div class="col-md-12 wow fadeIn animated" data-wow-delay=".5s">
                     <div class="shadow mb-4 p-4 st-bx-1">
                         <h3 class="mb-3">Our Corporate values are as under:</h3>
                         <ul class="" style="list-style:none;">
@@ -115,7 +185,7 @@
                             <li>7. We shall create an atmosphere of mutual respect, openness to challenge, and an environment of growth for our employees.</li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -174,17 +244,22 @@
             <div class="row">
                 <div class="col-12">
                     <div class="our-team__content text-center mb-60 mb-lg-50 mb-md-40 mb-sm-35 mb-xs-30">
-                        <span class="section__subtitle section__subtitle-2 uppercase justify-content-center mb-20 wow fadeIn animated" data-wow-delay=".1s"><img class="xlab-img rightLeft" src="assets/imgs/icons/xlab.svg" alt="arrow not found"> Simplifying Finance</span>
-                        <h2 class="section__title mb-0 wow fadeIn animated" data-wow-delay=".5s">Team Shaan Finance </h2>
+                        <span
+                            class="section__subtitle section__subtitle-2 uppercase justify-content-center mb-20 wow fadeIn animated"
+                            data-wow-delay=".1s"><img class="xlab-img rightLeft" src="assets/imgs/icons/xlab.svg"
+                                alt="arrow not found">Our Leaders</span>
+                        <h2 class="section__title mb-0 wow fadeIn animated" data-wow-delay=".5s">Management Team
+                        </h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-3">
+                <!-- <div class="col-md-3 mb-3">
                     <div class="our-team__item d-flex align-items-center flex-column">
                         <div class="our-team__item-media">
                             <a href="index.php">
-                                <img class="img-fluid" src="assets/imgs/home1/dir-jyoti-round2.png" alt="image not found">
+                                <img class="img-fluid" src="assets/imgs/home1/dir-jyoti-round2.png"
+                                    alt="image not found">
                             </a>
                         </div>
                         <div class="our-team__item-content text-center">
@@ -197,19 +272,15 @@
                                 lover of design and has always been fascinated by
                                 artistic design.
                             </p>
-                            <!-- <div class="text-end w-100">
-                                <a href="#">
-                                     <i class="fa-brands fa-linkedin" style="font-size:25px;color:#004aad;"></i>
-                                </a>
-                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 mb-3">
                     <div class="our-team__item d-flex align-items-center flex-column">
                         <div class="our-team__item-media">
                             <a href="index.php">
-                                <img class="img-fluid" src="assets/imgs/home1/dir-solanki-round.png" alt="image not found">
+                                <img class="img-fluid" src="assets/imgs/home1/dir-solanki-round.png"
+                                    alt="image not found">
                             </a>
                         </div>
                         <div class="our-team__item-content text-center">
@@ -222,19 +293,15 @@
                                 with track record of more than 13 years in the
                                 field of Finance.
                             </p>
-                            <!-- <div class="text-end w-100">
-                                <a href="#">
-                                     <i class="fa-brands fa-linkedin" style="font-size:25px;color:#004aad;"></i>
-                                </a>
-                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 mb-3">
                     <div class="our-team__item d-flex align-items-center flex-column">
                         <div class="our-team__item-media">
                             <a href="index.php">
-                                <img class="img-fluid" src="assets/imgs/home1/dir-birjendra-round.png" alt="image not found">
+                                <img class="img-fluid" src="assets/imgs/home1/dir-birjendra-round.png"
+                                    alt="image not found">
                             </a>
                         </div>
                         <div class="our-team__item-content text-center">
@@ -243,22 +310,18 @@
                             </a>
                             <span class="mb-20 d-block"> MD & CEO</span>
                             <p>
-                              Mr. Birendra Kumar, is a former banking professional having wide 
-                              and diversified experience in the field of banking.
+                                Mr. Birendra Kumar, is a former banking professional having wide
+                                and diversified experience in the field of banking.
                             </p>
-                            <!-- <div class="text-end w-100">
-                                <a href="#">
-                                     <i class="fa-brands fa-linkedin" style="font-size:25px;color:#004aad;"></i>
-                                </a>
-                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 mb-3">
                     <div class="our-team__item d-flex align-items-center flex-column">
                         <div class="our-team__item-media">
                             <a href="index.php">
-                                <img class="img-fluid" src="assets/imgs/home1/dir-prasd-round.png" alt="image not found">
+                                <img class="img-fluid" src="assets/imgs/home1/dir-prasd-round.png"
+                                    alt="image not found">
                             </a>
                         </div>
                         <div class="our-team__item-content text-center">
@@ -267,20 +330,102 @@
                             </a>
                             <span class="mb-20 d-block"> Chief Operating Officer</span>
                             <p>
-                              Shri Tara Prasad Misra is a former banking professional having 
-                              decades of experience in diversified field of banking, 
-                              finance and consultancy.
+                                Shri Tara Prasad Misra is a former banking professional having
+                                decades of experience in diversified field of banking,
+                                finance and consultancy.
                             </p>
-                            <!-- <div class="text-end w-100">
-                                <a href="#">
-                                     <i class="fa-brands fa-linkedin" style="font-size:25px;color:#004aad;"></i>
-                                </a>
-                            </div> -->
                         </div>
                     </div>
+                </div> -->
+
+
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="profile-card">
+                        <div class="profile-image-wrapper">
+                            <img src="assets/imgs/common/dir-jyothi.png" alt="Shaji Varghese" class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <h4 class="profile-name mt-10">Jyothi</h4>
+                            <p class="profile-title text-center mb-0">Director</p>
+                            <p class="mb-0">
+                                Jyothi Chenraj a dynamic entrepreneur, who is a keen
+                                lover of design and has always been fascinated by
+                                artistic design.
+                            </p>
+                        </div>
+                        <!-- <a href="contact.php" class="view-profile-btn text-white">Contact Us</a> -->
+                    </div>
                 </div>
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="profile-card">
+                        <div class="profile-image-wrapper">
+                            <img src="assets/imgs/common/dir-solanki.jpg" alt="Shaji Varghese" class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <h4 class="profile-name mt-10">Mahaveer Solanki</h4>
+                            <p class="profile-title text-center mb-0">Director</p>
+                            <p class="mb-0">
+                                Mahaveer Solanki, is a committed and result oriented person with track record of more
+                                than 13 years in the field of Finance.
+                            </p>
+                        </div>
+                        <!-- <a href="contact.php" class="view-profile-btn text-white">Contact Us</a> -->
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="profile-card">
+                        <div class="profile-image-wrapper">
+                            <img src="assets/imgs/common/dir-birjendra.jpg" alt="Shaji Varghese" class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <h4 class="profile-name mt-10">Mr.Birendra Kumar</h4>
+                            <p class="profile-title text-center mb-0">MD & CEO</p>
+                            <p class="mb-0">
+                                Mr. Birendra Kumar, is a former banking professional having wide and diversified
+                                experience in the field of banking.
+                            </p>
+                        </div>
+                        <!-- <a href="contact.php" class="view-profile-btn text-white">Contact Us</a> -->
+                    </div>
+                </div>
+                 <div class="col-12 col-md-6 col-lg-2 mb-3">
+</div>
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="profile-card">
+                        <div class="profile-image-wrapper">
+                            <img src="assets/imgs/common/dir-prasd.jpg" alt="Shaji Varghese" class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <h4 class="profile-name mt-10">Mr. Tara Prasad Misra</h4>
+                            <p class="profile-title text-center mb-0">Chief Operating Officer</p>
+                            <p class="mb-0">
+                                Shri Tara Prasad Misra is a former banking professional having decades of experience in
+                                diversified field of banking finance.
+                            </p>
+                        </div>
+                        <!-- <a href="contact.php" class="view-profile-btn text-white">Contact Us</a> -->
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mb-3">
+                    <div class="profile-card">
+                        <div class="profile-image-wrapper">
+                            <img src="assets/imgs/common/img-square-team.jpg" alt="Shaji Varghese"
+                                class="profile-image">
+                        </div>
+                        <div class="profile-content">
+                            <h4 class="profile-name mt-10">Mr. Venkatesan K</h4>
+                            <p class="profile-title text-center mb-0">CFO</p>
+                            <p class="mb-0">
+                                Mr. Venkatesan K is a former banking professional having 33 years of experience in
+                                diversified field of banking & Finance.
+                            </p>
+                        </div>
+                        <!-- <a href="contact.php" class="view-profile-btn text-white">Contact Us</a> -->
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-2 mb-3">
+</div>
             </div>
-        </div>
         </div>
     </section>
     <!-- Team area end -->
